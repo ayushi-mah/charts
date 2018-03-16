@@ -1,0 +1,6 @@
+The file contains google charts made from json data.
+It contains following charts:
+1:Line Chart
+2:Area Chart
+3:Pie Chart
+4:Column Chart
