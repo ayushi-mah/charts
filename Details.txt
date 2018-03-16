@@ -6,9 +6,13 @@ It contains following charts:
 4:Column Chart
 
 
+
 Later I am going to add:
 1:Histogram
 2:Scatter Chart
 
 That's all you can find here.
 Thank you.
+
+Final Copy
+
